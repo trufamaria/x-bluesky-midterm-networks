@@ -1,6 +1,6 @@
 X vs. Bluesky: Network Structure of 2026 U.S. Midterm Election Discussion
 
-A comparative network analysis of how people talk about the 2026 U.S. midterm elections on X and on Bluesky.
+A comparative network analysis of how people talk about the 2026 U.S. midterm elections, the Brazilian presidential elections and the 2025 Netherlands election on X and on Bluesky.
 
 Status: work in progress.
 
